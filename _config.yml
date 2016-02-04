@@ -1,28 +1,40 @@
-name: morganrusler
-favicon: null
 layout_spectrum: 0.1716537051834166
-typography_spectrum: 0.5700700394809246
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
-  brandStrength: 0.9069952662102878
-  lightness: 0.44873539078980684
-  saturation: 0.9047484553884715
-  rhythmicContrast: 0.4278003014624119
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 purpose: []
+color:
+  saturation: 0.9047484553884715
+  brandStrength: 0.9069952662102878
+  lightness: 0.4487353907898068
+  brandColors:
+    - '#1F0F0B'
+    - '#662615'
+    - '#895442'
+    - '#FEFFFF'
+    - '#E0A387'
+  rhythmicContrast: 0.4278003014624119
+typography_spectrum: 0.9103943
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+favicon: null
+name: morganrusler
