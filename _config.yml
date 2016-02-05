@@ -1,4 +1,8 @@
-layout_spectrum: 0.1716537051834166
+favicon: null
+cta:
+  bucket: null
+  version: null
+  domain: null
 opengraph:
   image: null
   type: null
@@ -9,32 +13,28 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 purpose: []
 color:
-  saturation: 0.9047484553884715
+  saturation: 0.4892473
   brandStrength: 0.9069952662102878
-  lightness: 0.4487353907898068
+  lightness: 0.453405
   brandColors:
     - '#1F0F0B'
     - '#662615'
     - '#895442'
     - '#FEFFFF'
     - '#E0A387'
-  rhythmicContrast: 0.4278003014624119
+  rhythmicContrast: 0
 typography_spectrum: 0.9103943
-cta:
-  bucket: null
-  version: null
-  domain: null
+layout_spectrum: 0.1716537051834166
 analytics:
   twitter: null
   google: null
   facebook: null
-favicon: null
 name: morganrusler
