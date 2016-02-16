@@ -1,4 +1,4 @@
-name: morganrusler
+name: Morgan Rusler
 favicon: null
 layout_spectrum: 0.1716537051834166
 typography_spectrum: 0.9103943
@@ -14,6 +14,7 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
+title: 'Custom Cabinetry, Furniture and other stuff'
 cta:
   domain: null
   bucket: null
