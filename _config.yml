@@ -1,41 +1,41 @@
-name: Morgan Rusler
-favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.9103943
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
+layout_spectrum: 1
 title: 'Custom Cabinetry, Furniture and other stuff'
 cta:
-  domain: null
   bucket: null
   version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+  domain: null
 color:
+  saturation: 0.5197133
+  brandStrength: 0.9069952662102878
+  rhythmicContrast: 0
   brandColors:
     - '#1F0F0B'
     - '#662615'
     - '#895442'
     - '#FEFFFF'
     - '#E0A387'
-  brandStrength: 0.9069952662102878
   lightness: 0.7437276
-  saturation: 0.5197133
-  rhythmicContrast: 0
 purpose: []
+favicon: null
+name: Morgan Rusler
+typography_spectrum: 0.9103943
